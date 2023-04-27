@@ -21,3 +21,13 @@ If I were you, I would only activate it inside the terminal ',:)
 ### To modify the script:
 
 Consult the [documentation](https://www.autohotkey.com/docs) first then edit in your preferred editor!
+
+### To go a step further...
+
+If you want this script to run automatically on startup:
+
+Press `Win + R` to launch the RUN window
+
+Type `shell:startup` and press ENTER
+
+Place the script inside this folder :)
