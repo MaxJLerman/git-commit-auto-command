@@ -20,7 +20,7 @@ If I were you, I would only activate it inside the terminal ',:)
 
 ### To modify the script:
 
-Consult the [documentation](https://www.autohotkey.com/docs) first then edit in your preferred editor! (or use ChatGPT)
+Consult the [documentation](https://www.autohotkey.com/docs) first then make changes in your preferred editor! (or use ChatGPT)
 
 ### To go a step further...
 
