@@ -8,7 +8,7 @@ then will pause for 100ms and move the cursor 25 places to the left to place it 
 
 If I were you, I would only activate it inside the terminal ',:)
 
-### The command is explained as follows:
+### The command itself is explained as follows:
 
 `git add -A` adds all changes, including new files, modifications, and deletions, to the staging area of your Git repository
 
