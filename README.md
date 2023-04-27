@@ -4,7 +4,7 @@ If the active window is VS Code, pressing F9 will type out the following command
 
 `git add -A && git commit -S -m "" && git push origin main`
 
-then will pause and move the cursor 25 places to the left to place it at the second ("), allowing you to add a commit message.
+then will pause for 100ms and move the cursor 25 places to the left to place it at the second ("), allowing you to add a commit message.
 
 If I were you, I would only activate it inside the terminal ',:)
 
